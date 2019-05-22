@@ -102,3 +102,4 @@ ENV/
 # mypy
 .mypy_cache/
 vtdata/Scripts/people1.csv
+*.csv
