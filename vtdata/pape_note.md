@@ -165,3 +165,22 @@ Observe the mean and median
 ### Line Chart
 
 <img src="C:\Users\USER\Desktop\photo\png\combo (15).png" alt="combo (15)" style="zoom:50%;" />
+
+
+
+
+
+- Data Processing
+  - 1 - 2
+    - Condition
+    - Round
+    - Target
+    - User
+  - 3 - 4 - 5
+    - Condition
+    - Round
+    - Target
+    - User
+   - Qualification
+      - 1 - 2
+   - Questionaire
