@@ -1,3 +1,32 @@
+# Data Section
+
+Data Processing and Result
+- Data Structure <summary, absolute value>
+
+- Statistic Validation (C1 2) <t-test and anova>
+  - Condition <Time - User>
+  - Round <Time - User>
+  - Target
+    - Inter-User <Target Speed - User>
+    - Inter-Target <Target Speed - Target Location>
+- Unevenness <pairwise t-test>
+    - Inter-User <Target Speed - User>
+    - Inter-Target <Target Speed - Target Location>
+  
+- Statistic Validation (C3 4 5) <t-test and anova>
+
+  - Condition <Time - User>
+- Target
+  
+- Quantification <relative value, ratio>
+
+  - Condition
+  - Target
+
+- Questionnaire
+
+- Data Conclusion
+
 # Premises to do T-test
 
 - Normal Distribution -> Normality test
